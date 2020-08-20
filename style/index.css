@@ -132,3 +132,35 @@ h1{
     flex-direction: row;
     align-items: center;
 }
+
+@media (min-width: 1080px) {
+    nav{
+        flex-direction: row;
+       
+    }
+    .main-content{
+        flex-direction: row;
+    }
+    .websites{
+        flex-direction: row;
+        align-items: center;
+    }
+    .main-content p{
+        font-size: 32px;
+    }
+    h1{
+        font-size: 36px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
